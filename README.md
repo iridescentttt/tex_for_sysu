@@ -1,1 +1,1 @@
-tex for sysu
+TEX FOR SYSU
